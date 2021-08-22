@@ -7,6 +7,8 @@ public class EjemploGit
 	{
 		// TODO Auto-generated method stub
 		System.out.println("Hola Git");
+		
+		String nombre = "Juan Carlos";
 	}
 
 }
